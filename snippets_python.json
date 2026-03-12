@@ -1,0 +1,22 @@
+[
+  {
+    "prefix": "main",
+    "body": "if __name__ == \"__main__\":\n    "
+  },
+  {
+    "prefix": "def",
+    "body": "def function_name(params):\n    \"\"\"TODO: docstring\"\"\"\n    "
+  },
+  {
+    "prefix": "class",
+    "body": "class ClassName(object):\n    def __init__(self, *args, **kwargs):\n        "
+  },
+  {
+    "prefix": "for",
+    "body": "for i in range(10):\n    "
+  },
+  {
+    "prefix": "if",
+    "body": "if condition:\n    "
+  }
+]
