@@ -1,4 +1,19 @@
 {
+  "theme": "dark",
   "language": "en",
-  "theme": "dark_purple.xml"
+  "accent_color": "#31184a",
+  "background_color": "#1e1f22",
+  "side_color": "#18191c",
+  "panel_color": "#202124",
+  "editor_color": "#1e1f22",
+  "terminal_color": "#111214",
+  "text_color": "#d6d6d6",
+  "font_family": "Cascadia Mono SemiLight",
+  "font_size": 14,
+  "background_image": "",
+  "last_project": "",
+  "recent_projects": [
+    
+  ],
+  "disabled_plugins": []
 }

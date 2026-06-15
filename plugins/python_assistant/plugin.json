@@ -1,0 +1,7 @@
+{
+  "id": "python_assistant",
+  "name": "Python Assistant",
+  "version": "0.2.0",
+  "description": "Context-aware Python completions, snippets, local symbols and common dot-completions for Prism Workspace.",
+  "entry": "plugin.py"
+}

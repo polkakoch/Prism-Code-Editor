@@ -1,0 +1,7 @@
+{
+  "id": "code_notes",
+  "name": "Code Notes",
+  "version": "0.1.0",
+  "description": "Adds notes for a selected file fragment.",
+  "entry": "plugin.py"
+}
